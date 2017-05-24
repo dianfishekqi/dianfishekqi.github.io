@@ -11,7 +11,9 @@ permalink: /about/
 
 ## Roles
 
-Founder, Akademia e Dijes
+* Founder, Akademia e Dijes
+* Member, [FLOSSK](http://flossk.org)
+* Hacker, Prishtina Hackerspace
 
 ## Skills
 
@@ -32,4 +34,4 @@ Founder, Akademia e Dijes
 
 ## Contact me
 I primarily use email:
-[\_@dianfisheqi.me](mailto:_@dianfishekqi.me)
+[\_@dianfishekqi.me](mailto:_@dianfishekqi.me)
